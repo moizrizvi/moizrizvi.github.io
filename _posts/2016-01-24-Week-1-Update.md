@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Week Update"
+title: "Week 1 Update"
 date: 2016-01-24
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
