@@ -2,7 +2,7 @@
 name: 'CS373 Spring 2016: Moiz Rizvi'
 description: 'This is a blog documenting my experience in CS 373 Software Engineering'
 
-# baseurl: '/cs373' # the subpath of your site, e.g. /blog
+baseurl: '/cs373' # the subpath of your site, e.g. /blog
 url: 'http://moizrizvi.github.io' # the base hostname & protocol for your site
 
 # Build settings
