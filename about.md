@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am Moiz. This is my blog about being in Glenn Downing's CS 373 Software Engineering class. I'll post about stuff every week. It'll be fun
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+![Post](https://googledrive.com/host/0B6SdAYtXoGPQY1I1WmtEcGZsUkE/avatar.jpg)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## Weeks
+* Week 1
