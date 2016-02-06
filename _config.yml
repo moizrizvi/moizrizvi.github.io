@@ -23,6 +23,14 @@ sass:
     sass_dir: _sass
     style:    compressed
 
+ lsi: false
+ safe: true
+ source: moizrizvi.github.io
+ incremental: false
+ highlighter: rouge
+ gist:
+   noscript: false
+
 defaults:
   -
       scope:
