@@ -20,3 +20,9 @@ Currently there is nothing in my way. We haven't started the first project yet s
 ## 3. What will you do next week?
 
 Next week we'll get started on the first project and learn more about software engineering patterns in Python.
+
+
+My general experience in the class has been very good so far. I particularly enjoy the fact that it's only one hour long so I can actually maintain a good level of concertation throughout the class period. I like that were using GitHub and Travis CI, mostly things that I already know how to use but would like to know more about.
+
+My tip of the week is Sublime Text has some pretty sweet themes. If you have the package manager on Sublime, you can download some pretty nice ones. [Here](https://github.com/kenwheeler/brogrammer-theme) is the one I'm currently using.
+
