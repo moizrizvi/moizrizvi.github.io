@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Week 1 Update"
+title: "First Week Update"
 date: 2016-01-24
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
 thumb: https://www.dropbox.com/s/gi9gvysd92bxiy4/avatar.jpg?dl=1
 categories: weekly-updates
-tags: home work office coding design
+tags: weekly posts
 ---
 
 ## 1. What did you do this past week?
