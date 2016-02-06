@@ -26,7 +26,7 @@ sass:
  lsi: false
  safe: true
  source: moizrizvi.github.io
- incremental: false
+ incremental: true
  highlighter: rouge
  gist:
    noscript: false
