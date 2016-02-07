@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Week 2 Update"
-date: 2016-01-31
+title: "Week 3 Update"
+date: 2016-02-07
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
 thumb: https://www.dropbox.com/s/gi9gvysd92bxiy4/avatar.jpg?dl=1
